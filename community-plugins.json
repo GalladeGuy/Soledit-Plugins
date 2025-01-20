@@ -1,0 +1,8 @@
+{
+  "id": "kirby-dl3-editor",
+  "name": "Kirby's Dream Land 3 Editor",
+  "version": 0.1,
+  "plugin-url": "https://raw.githubusercontent.com/GalladeGuy/testing/master/kdl3.wasm",
+  "extensions": ".sfc",
+  "desc": "A plugin that provides full level-editing support for the Super Nintendo game Kirby's Dream Land 3."
+}
